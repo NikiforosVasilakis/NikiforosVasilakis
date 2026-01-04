@@ -1,5 +1,5 @@
 # About Me:
-Yooooo I write code, full stack projects, some cybersec writeups from time to time and<br>mess around with my home lab.<br>Sometimes you might see college work here lool
+Yooooo I write code, full stack projects, some cybersec writeups from time to time and<br>mess around with my home lab.<br>Sometimes college stuff sneaks in lool
 
 
 
